@@ -26,27 +26,28 @@ Link to Author's website:  https://www.benyuill.com/
 
 Reading Responses:
 
-Hayles, N. K. (2007). Electronic Literature: What Is It? The Electronic Literature Organization. https://eliterature.org/pad/elp.html
-
-This is the first thing I'm reading for this class and I’m kind of overwhelmed, I really was unsure what to expect. I didn’t even know “electronic literature” was a thing, I've inadvertently experience some before, but would never have thought of it in this way. I came in assuming it was stuff like text-based games or hypertext fiction, maybe visual poetry with code? But then Berens throws in memes, hashtags, and Instagram poetry as things we might need to include in the category, and suddenly the whole concept gets way more complicated (and interesting).
-
-The gardening metaphor really stuck with me. A walled garden — curated, neat, exclusive — versus permaculture, which lets things grow wild and supports itself. That shift made something click: traditional e-lit is like this niche, academic zone with its own values and expectations (difficulty, code, high modernist vibes), but there’s this massive world of people making weird, literary-ish things online who don’t even know what “e-lit” is. And that’s kind of where I feel like I sit. My Twine project was born out of experimentation and vibe, not theory or tradition.
-
-Berens talks about how just inviting people in isn’t enough — that “inclusion” isn’t the same as decolonizing. That hit hard. The idea that you can’t just add marginalised work into an existing structure and call the job done — yeah, that resonates. Makes me think of how many barriers are still quietly there even when people say they’re being open.
-
-I’m still figuring out what counts as e-lit, but maybe that’s the point. It seems like everyone’s figuring it out. Which is exciting and weirdly liberating.
-
-
 
 Berens, K. I. (2020). Decolonize’ E-Literature? On Weeding the E-Lit Garden. Emergent digital literary network. https://doi.org/10.7273/SVQQ-AB68
 
-Okay, wow — this reading was a lot to take in, especially coming into it without a clear idea of what electronic literature even is. I’d never really thought about memes or Instagram poetry as “literature,” let alone something that might be part of an academic field. I always thought e-lit meant, like, weird experimental stuff made with code — and I guess that’s partly what Berens is saying too, but also challenging?
+This was the first reading I tackled for the class, and honestly, it left me a bit overwhelmed.
 
-The gardening metaphor really helped me get it. The idea that traditional e-lit is like a “walled garden” — neat, curated, kind of exclusive — makes sense. And then the idea of “permaculture” as this messier, more organic ecosystem feels like a better way to think about all the random, chaotic, but meaningful stuff people are making online now. Like, even if someone doesn’t mean to make “literature,” does that mean it’s not?
+Coming in, I thought I had a rough idea of what “electronic literature” might be: hypertext fiction, Twine games, maybe some visual poetry made with code. Stuff that’s intentionally “literary,” just in digital form. But Berens immediately complicates that. Memes? Instagram poetry? Hashtags like #BlackLivesMatter? These aren’t just internet ephemera they’re potentially part of e-lit too. That was a bit of a mental shift for me.
 
-It’s weird to think that something like a hashtag or meme could be e-lit, but I guess if it’s doing cultural work — like #BLM stuff — then yeah, maybe it is. I kept wondering where my own Twine project fits. I’m definitely not in the “prestige” camp, and I didn’t know about e-lit before this class, but I still felt like I was trying to make something literary… just with new tools.
+The gardening metaphor really helped everything click. Traditional e-lit as a “walled garden” made sense—curated, structured, mostly academic, and kind of exclusive. But the idea of permaculture offered a much more interesting model: messy, collaborative, self-sustaining. It reframed the internet’s chaotic creativity as something valuable in its own right, not just noise. That resonated with how I approached my own Twine project. I wasn’t trying to emulate canonical e-lit; I was experimenting with form and mood, without thinking much about theory or prestige.
 
-The bit about decolonization vs. just “inviting people in” stuck with me. Inclusion isn’t the same as actually changing the system, and I guess that’s something the e-lit community is still figuring out. This reading made me realize how much e-lit has grown into a proper academic field — and how maybe that’s both a good and bad thing?
+One thing that stuck with me was Berens’ point that inclusion alone isn’t enough. You can’t just invite marginalised creators into an existing structure and pretend that counts as transformation. Decolonization asks for something more fundamental—a rethinking of the systems themselves. That felt like a direct challenge to how literary fields, including e-lit, define value.
+
+I’m still figuring out what actually counts as e-lit, and maybe that’s part of what makes this space interesting. There isn’t a clear boundary, and Berens seems to suggest that’s intentional. The field is still evolving, and people are coming at it from totally different directions—some with strong academic or artistic backgrounds, others just making things online without thinking of it as “literature” at all. That makes it a bit messy, but it also opens things up. For now, I’m just trying to stay curious about how different works function and what they’re doing, whether or not they look like what I used to think of as literature.
+
+
+
+Hayles, N. K. (2007). Electronic Literature: What Is It? The Electronic Literature Organization. https://eliterature.org/pad/elp.html
+
+This reading helped me start to understand that “electronic literature” isn’t just writing on screens, but something more deeply tied to the medium it’s made in. Hayles draws a line between print literature that happens to be digital (like a PDF of a novel) and e-lit that’s born digital—stuff that couldn’t really exist outside of a computer. That distinction feels important, but also kind of fuzzy. I started thinking about where my own writing would fit, especially with my Twine project. I’m working inside a digital platform, but I still think like someone writing prose. Does that count?
+
+I was especially struck by the way Hayles talks about code as part of the literary work, not just the thing running in the background. It made me realise I usually ignore that part—when I play with formatting or macros, I think of it as visual or mechanical, not as writing. But maybe it’s all connected? This reading pushed me to see how much I rely on the interface and infrastructure, even if I’m not fully aware of it.
+
+There’s also this tension in the piece between e-lit as experimental and niche vs. something that might one day be more mainstream. Right now it still feels kind of fringe to me, but Hayles makes it sound like a growing field with its own traditions. I’m not sure I’m ready to call myself part of that tradition, but it’s interesting to think that I’m maybe working in the margins of it already.
 
 
 Rosario, G. di. (2021). The Origins of Electronic Literature: An Overview. Bloomsbury Publishing. https://doi.org/10.5040/9781501363474.ch-001
